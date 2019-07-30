@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "tripicore-lib",
+  "main": "./tripicore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://tripi.io",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "TRIPI <support@tripi.io>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your tripi project.",
   "moduleType": [
     "globals"
   ],
